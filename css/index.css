@@ -289,6 +289,10 @@ body {
     margin: 1.5%;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -305,6 +309,41 @@ a {
     display: flex;
 }
 
+.Cityscape {
+    display: flex;
+    width: 100%;
+}
+
 .HeaderBorder {
     border: .75px solid black;
+}
+
+.Strategy-Work {
+    display: flex;
+    flex-direction: row;
+}
+
+.Strategy {
+    padding: 10px;
+    width: 50%;
+}
+
+.HowWeWork {
+    padding: 10px;
+    width: 50%;
+}
+
+.Places-Collaboration {
+    display: flex;
+    flex-direction: row;
+}
+
+.PlacesWeWork {
+    padding: 10px;
+    width: 50%;
+}
+
+.Collaboration {
+    padding: 10px;
+    width: 50%;
 }
