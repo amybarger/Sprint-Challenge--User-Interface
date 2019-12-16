@@ -54,7 +54,6 @@ a {
     display: flex;
     width: 100%;
     margin-bottom: 3%;
-    text-align: center;
 }
 
 ol, ul {
@@ -312,6 +311,7 @@ a {
 .Cityscape {
     display: flex;
     width: 100%;
+    margin-bottom: 2%;
 }
 
 .HeaderBorder {
@@ -346,4 +346,14 @@ a {
 .Collaboration {
     padding: 10px;
     width: 50%;
+}
+
+.LearnMore {
+    border: 1px solid black;
+    border-radius: 8%;
+    width: 40%;
+    padding: 10px 15px 10px 15px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
 }
