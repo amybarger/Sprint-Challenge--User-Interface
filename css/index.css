@@ -283,6 +283,28 @@ footer nav a {
 
 /* About Page CSS */
 
+body {
+    line-height: 1;
+    padding: 1.5%;
+    margin: 1.5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.LambdaLogo {
+    display: flex;
+}
+
 .HeaderBorder {
     border: .75px solid black;
 }
